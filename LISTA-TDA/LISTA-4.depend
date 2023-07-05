@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1688521240 source:c:\users\homer\desktop\codeblocks\ayed\lista-4\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+
+1688521132 c:\users\homer\desktop\codeblocks\ayed\lista-4\animal.h
+
+1688521300 c:\users\homer\desktop\codeblocks\ayed\lista-4\dato.h
+
+1688521609 source:c:\users\homer\desktop\codeblocks\ayed\lista-4\animal.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+	"lista.h"
+
+1688589865 c:\users\homer\desktop\codeblocks\ayed\lista-4\lista.h
+
+1688592338 source:c:\users\homer\desktop\codeblocks\ayed\lista-4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+	"lista.h"
+
+1688592743 source:c:\users\homer\desktop\codeblocks\ayed\lista-4\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"animal.h"
+	"dato.h"
+	"lista.h"
+
