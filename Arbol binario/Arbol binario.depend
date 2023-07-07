@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1688770547 source:c:\users\homer\desktop\codeblocks\ayed\arbol binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1688770513 c:\users\homer\desktop\codeblocks\ayed\arbol binario\arbol.h
+
+1688770859 source:c:\users\homer\desktop\codeblocks\ayed\arbol binario\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
