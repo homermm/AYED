@@ -3,7 +3,6 @@
 #include "arbol.h"
 
 struct nodoStruct{
-
     int dato;
     Nodo izquierdo;
     Nodo derecho;
@@ -67,6 +66,7 @@ void postOrden(Nodo nodo){
 
 }
 
+///BUSCAR
 Nodo buscar(Nodo nodo, int dato){
     if (nodo == NULL){
         return NULL;

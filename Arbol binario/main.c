@@ -19,9 +19,9 @@ int main()
 
     printf("\nImprimiendo preOrden\n");
     preOrden(raiz);
-    printf("\nImprimiendo inorden\n");
+    printf("\nImprimiendo inOrden\n");
     inOrden(raiz);
-    printf("\nImprimiendo postorden\n");
+    printf("\nImprimiendo postOrden\n");
     postOrden(raiz);
 
     printf("\nBuscando el 30\n");
