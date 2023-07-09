@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1688938029 source:c:\users\homer\desktop\codeblocks\ayed\cola\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+	"cola.h"
+
+1688938038 c:\users\homer\desktop\codeblocks\ayed\cola\dato.h
+
+1688939733 c:\users\homer\desktop\codeblocks\ayed\cola\cola.h
+
+1688939028 source:c:\users\homer\desktop\codeblocks\ayed\cola\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+	"cola.h"
+
