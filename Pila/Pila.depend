@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1688936777 source:c:\users\homer\desktop\codeblocks\ayed\pila\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+	"pila.h"
+
+1688936777 c:\users\homer\desktop\codeblocks\ayed\pila\dato.h
+
+1688937254 c:\users\homer\desktop\codeblocks\ayed\pila\pila.h
+
+1688936923 source:c:\users\homer\desktop\codeblocks\ayed\pila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+	"pila.h"
+
